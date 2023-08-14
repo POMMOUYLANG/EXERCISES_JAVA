@@ -1,6 +1,6 @@
 package FirstDemo.Demo_10;
 
-public class SchoolApp {  
+public final class SchoolApp {  
     public static void main(String[] args) {
         Teacher t = new Teacher();
         // t.info();
