@@ -9,7 +9,6 @@ public class Teacher extends Person{
         super("Lang", "Female", 21);
         this.salary = 100;
         // HOUR = 60;
-        
     }
 
     public void displaynationality(){

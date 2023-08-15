@@ -1,6 +1,6 @@
 package FirstDemo.Demo_7;
 
-public class MethodOverlpading_1 {
+public class MethodOverloading_1 {
     public static void main(String[] args) {
         // printString("Welcome TO Cambodia.");
         // printInteger(23);
